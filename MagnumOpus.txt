@@ -1,9 +1,18 @@
-My complete life and work as seen by millions of people all around the world.
+<html>
+	<body>
+		<h1>My Magnum Opus</h1>
+		<p>My complete life and work as seen by millions of people all around the world.
 
-Row, row, row your boat,
-Gently down the stream.
-Merrily, merrily, merrily, merrily,
-Life is but a dream.
+		<p>
+			Row, row, row your boat,<br/>
+			Gently down the stream.<br/>
+			Merrily, merrily, merrily, merrily,<br/>
+			Life is but a dream.
+		</p>
 
-Tom Purnell
-MagnumOpus@BigMoney.com
+		<p>
+			Tom Purnell<br/>
+			MagnumOpus@BigMoney.com
+		</p>
+	</body>
+</html>
